@@ -37,7 +37,7 @@
 
 (`真实运用中需要根据不同人的眼睛大小进行检测，人的眼睛大小，俯仰头习惯都不一样，这只是一个参考值`)
 
-![检测标准](https://images.gitee.com/uploads/images/2019/1225/234123_e66813be_5490475.png "屏幕截图.png")
+![检测标准](https://raw.githubusercontent.com/LryGean/fatigue-detection/main/images/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE.png "屏幕截图.png")
 
 
 #### 使用说明
